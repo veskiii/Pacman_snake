@@ -1,0 +1,16 @@
+﻿  Ghost.cpp
+c:\users\mikolaj\source\repos\pacman_snake\pacman_snake\ghost.cpp(170): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\users\mikolaj\source\repos\pacman_snake\pacman_snake\ghost.cpp(171): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\users\mikolaj\source\repos\pacman_snake\pacman_snake\ghost.cpp(176): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\mikolaj\source\repos\pacman_snake\pacman_snake\ghost.cpp(177): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  Other.cpp
+c:\users\mikolaj\source\repos\pacman_snake\pacman_snake\other.cpp(10): warning C4018: '<': signed/unsigned mismatch
+c:\users\mikolaj\source\repos\pacman_snake\pacman_snake\other.cpp(15): warning C4018: '<': signed/unsigned mismatch
+c:\users\mikolaj\source\repos\pacman_snake\pacman_snake\other.cpp(78): warning C4018: '<': signed/unsigned mismatch
+  Pacman_snake.cpp
+c:\users\mikolaj\source\repos\pacman_snake\pacman_snake\pacman_snake.cpp(49): warning C4018: '<': signed/unsigned mismatch
+c:\users\mikolaj\source\repos\pacman_snake\pacman_snake\pacman_snake.cpp(50): warning C4018: '<': signed/unsigned mismatch
+c:\users\mikolaj\source\repos\pacman_snake\pacman_snake\pacman_snake.cpp(128): warning C4018: '<': signed/unsigned mismatch
+c:\users\mikolaj\source\repos\pacman_snake\pacman_snake\pacman_snake.cpp(138): warning C4018: '<': signed/unsigned mismatch
+  Generating Code...
+  Pacman_snake.vcxproj -> C:\Users\Mikolaj\source\repos\Pacman_snake\Debug\Pacman_snake.exe
